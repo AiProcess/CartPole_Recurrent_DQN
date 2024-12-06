@@ -1,1 +1,1 @@
-# CartPole_Recurrent_DQN
+# CartPole Recurrent DQN in TorchRL
